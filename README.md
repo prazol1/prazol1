@@ -1,4 +1,4 @@
-
+![logo](https://github.com/prazol1/prazol1/blob/c7f7e4467955a47f8b4f955786961e8c049ca74a/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prajwal Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
